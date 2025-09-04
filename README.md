@@ -8,6 +8,8 @@ Developed by: **Iman Shirani**
 
 ---
 
+![screenshot](3dsmaxShelfPro.png)
+
 ## ✨ Features
 
 - 🛠️ Create custom buttons and shelves
@@ -82,3 +84,4 @@ Thanks for your support! 🙏✨
 - Syntax Highlighting inside Script Editor
 - Shelf Template system
 - More advanced customization options
+
