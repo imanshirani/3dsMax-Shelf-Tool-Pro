@@ -664,7 +664,7 @@ class ShelfTool(QWidget):
         # ==========================
         # About Section
         # ==========================
-        about_label = QLabel("3ds Max Shelf Tool\n\nPlugin page: https://example.com\n\nBy Iman Shirani")
+        about_label = QLabel("3ds Max Shelf Tool\n\nPlugin page: https://github.com/imanshirani/3dsMax-Shelf-Tool-Pro\n\nBy Iman Shirani")
         about_label.setAlignment(Qt.AlignCenter)
         layout.addWidget(about_label)
 
@@ -760,3 +760,4 @@ dock.show()
 
 if not app.exec():
     sys.exit()
+
