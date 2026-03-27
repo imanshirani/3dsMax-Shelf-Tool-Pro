@@ -26,10 +26,20 @@ Developed by: **Iman Shirani**
 
 ## 📥 Installation
 
-1. Copy `shelf_tool_pro.py` and `max_actions.json` into your 3ds Max `Scripts/` folder.
+1. Copy `shelftoolpro.py` and `max_actions.json` into your 3ds Max `Scripts/` folder.
 2. Launch it from MaxScript Editor or Scripts Menu inside 3ds Max.
 
 > **Note:** Requires **3ds Max 2025** or newer (Python 3.11 + Qt6 / PySide6).
+
+or 
+## 📦 Installation
+
+Installing the plugin is quick and requires no manual setup in 3ds Max.
+
+1. **Unzip** the downloaded package.
+2. **Copy** the `.bundle` folder to the Autodesk Application Plugins directory:
+   ```text
+   C:\ProgramData\Autodesk\ApplicationPlugins
 
 ---
 
